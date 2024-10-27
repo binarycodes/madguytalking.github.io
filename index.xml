@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Mad Guy Talking</title>
-    <link>https://madguytalking.github.io/</link>
+    <link>https://madguytalking.com/</link>
     <description>Recent content on The Mad Guy Talking</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2024 15:25:23 +0300</lastBuildDate>
-    <atom:link href="https://madguytalking.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://madguytalking.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://madguytalking.github.io/posts/first/</link>
+      <link>https://madguytalking.com/posts/first/</link>
       <pubDate>Thu, 24 Oct 2024 15:25:23 +0300</pubDate>
-      <guid>https://madguytalking.github.io/posts/first/</guid>
+      <guid>https://madguytalking.com/posts/first/</guid>
       <description>&lt;p&gt;** My first page **&lt;/p&gt;</description>
     </item>
   </channel>
